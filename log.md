@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -17,14 +17,14 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+ -->
 
+### Day 1: January 6, Friday
 
-### Day 1: June 27, Monday
+**Work**: I submitted an Alexa skill to be published on the Amazon Alexa store.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** My to do list is long. I need to brush up on my algorithms as well as OOP concepts. I started work on a website for a non profit organization YPC.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Previous Alexa Skills](https://www.alexaskillstore.com/developer/Alex-W)
+2. [GitHub Repo for Skill](https://github.com/alex-wap/alexa_skills/tree/master/trombone)
