@@ -23,9 +23,11 @@
 
 **Work**: I submitted an Alexa skill to be published on the Amazon Alexa store.
 
-**Thoughts** My to do list is long. I need to brush up on my algorithms as well as OOP concepts. I started work on a website for a non profit organization YPC.
+**Thoughts**: My to do list is long. I need to brush up on my algorithms as well as OOP concepts. I started work on a website for a non profit organization YPC.
 
-**Link(s) to work**
+**Links**
+
+
 1. [Previous Alexa Skills](https://www.alexaskillstore.com/developer/Alex-W)
 2. [GitHub Repo for Skill](https://github.com/alex-wap/alexa_skills/tree/master/trombone)
 
@@ -33,9 +35,11 @@
 
 **Work**: I implemented a JavaScript solution for counting an array of anagrams. I wrote a presentation to teach new students about Arrays.
 
-**Thoughts** I have a coding challenge to complete before Monday EOD.
+**Thoughts**: I have a coding challenge to complete before Monday EOD.
 
-**Link(s) to work**
+**Links**
+
+
 [Anagrams on GitHub](https://github.com/alex-wap/anagrams)
 
 
