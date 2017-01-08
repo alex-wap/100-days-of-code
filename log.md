@@ -28,3 +28,14 @@
 **Link(s) to work**
 1. [Previous Alexa Skills](https://www.alexaskillstore.com/developer/Alex-W)
 2. [GitHub Repo for Skill](https://github.com/alex-wap/alexa_skills/tree/master/trombone)
+
+### Day 2: January 7, Saturday
+
+**Work**: I implemented a JavaScript solution for counting an array of anagrams. I wrote a presentation to teach new students about Arrays.
+
+**Thoughts** I have a coding challenge to complete before Monday EOD.
+
+**Link(s) to work**
+[Anagrams on GitHub](https://github.com/alex-wap/anagrams)
+
+
