@@ -43,3 +43,13 @@
 [Anagrams on GitHub](https://github.com/alex-wap/anagrams)
 
 
+### Day 3: January 8, Sunday
+
+**Work**: I wrote a short guide to using Git and GitHub for my team on the non profit project I am working on. I networked with employees at Microsoft and started the coding challenge for an interview.
+
+**Thoughts**: I have a coding challenge to complete before Monday EOD. I need to get more info before I can complete it.
+
+**Links**
+
+
+[Git Guide on GitHub](https://github.com/alex-wap/gitguide)
