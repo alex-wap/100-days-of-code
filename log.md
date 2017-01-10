@@ -53,3 +53,15 @@
 
 
 [Git Guide on GitHub](https://github.com/alex-wap/gitguide)
+
+
+### Day 4: January 9, Monday
+
+**Work**: I presented my short guide to using Git and GitHub for my team. I delegated tasks for the team meeting tomorrow. I spoke with a software security company. I read and assessed the quality of a library's architecture and public interface. I submitted a report. 
+
+**Thoughts**: I have to give a presentation about Arrays tomorrow. I also plan to reimplement Underscore and continue working through Cracking the Coding Interview. I also want to create a guide for submitting an iOS app through the App Store Submittal Process.
+
+**Links**
+
+
+[Git Guide on GitHub](https://github.com/alex-wap/gitguide)
