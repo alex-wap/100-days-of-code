@@ -65,3 +65,15 @@
 
 
 [Git Guide on GitHub](https://github.com/alex-wap/gitguide)
+
+
+### Day 5: January 10, Tuesday
+
+**Work**: I took two phone screens. I completed my interview at Coding Dojo for a teaching position. I accepted! I will be doing code demos, teaching students, and coding. I worked on the YPC project. I wrote an HTML skeleton for the required forms and updated the database model. 
+
+**Thoughts**: I need to reimplement Underscore and continue working through Cracking the Coding Interview. I will be flying to Seattle for an interview. I want to create a guide for submitting an iOS app through the App Store Submittal Process. I also want to create a program to train students for technical interviews after graduation from the Dojo.
+
+**Links**
+
+
+[YPC Project](http://github.com/alex-wap/YPC-scrum)
