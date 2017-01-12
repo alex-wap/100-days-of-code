@@ -77,3 +77,20 @@
 
 
 [YPC Project](http://github.com/alex-wap/YPC-scrum)
+
+
+### Day 6: January 11, Wednesday
+
+**Work**: I worked on the YPC project by building out HTML skeletons, creating node controllers with express, implementing EJS for templating, and addding more backend routes to the project. This is to build an admin tool for managing blog posts and events. I also got an interview at G and I went to the official Angular Meetup in Mountain View.
+
+**Thoughts**: My to do list is getting longer and longer.
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+- Learn Django
+
+**Links**
+
+
+[YPC Project](http://github.com/alex-wap/YPC-scrum)
