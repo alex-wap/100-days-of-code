@@ -94,3 +94,18 @@
 
 
 [YPC Project](http://github.com/alex-wap/YPC-scrum)
+
+
+### Day 7: January 12, Thursday
+
+**Work**: I completed a technical screen that required DOM maniuplation, recursion, and I learned a bit of Mocha. I also took a phone screen for another company and an informational interview! I've been studying algorithms as well.
+
+**Thoughts**: I'm getting better at both phone and technical screens. It is extremely nerve wrecking, but practice makes perfect. I need to power through some Django before Monday.
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+- Learn Django
+
+**Links** None today.
