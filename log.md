@@ -109,3 +109,23 @@
 - Learn Django
 
 **Links** None today.
+
+
+### Day 8: January 13, Friday
+
+**Work**: I worked with my team on the YPC project. We got the front end hooked up with the back end and we are connecting to the db. I coached someone on phone screens and studied a bunch of Django.
+
+**Thoughts**: I need to power through more Django before Monday. I need to brush up on all my algorithms.
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[YPC Project](http://github.com/alex-wap/YPC-scrum)
+[Django](http://github.com/alex-wap/CodingDojo/tree/master/Django)
+
+
