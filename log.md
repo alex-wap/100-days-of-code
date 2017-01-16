@@ -133,7 +133,7 @@
 
 ### Day 9: January 15, Sunday
 
-**Work**: I am powering through more algorithms. I will load up my Flask assginments for my students.
+**Work**: I am powering through more algorithms. Review of BST and printing binary trees preorder, postorder, inorder. Also string manipulations. I will load up my Flask assginments for my students.
 
 **Thoughts**: I need to power through more Django after my interview. 9 more tabs.
 
