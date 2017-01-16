@@ -131,3 +131,23 @@
 [Django](http://github.com/alex-wap/CodingDojo/tree/master/Django)
 
 
+### Day 9: January 15, Sunday
+
+**Work**: I am powering through more algorithms. I will load up my Flask assginments for my students.
+
+**Thoughts**: I need to power through more Django after my interview. 9 more tabs.
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Algorithms WIP](http://github.com/alex-wap/algorithms)
+
+
+[Django](http://github.com/alex-wap/CodingDojo/tree/master/Django)
+
+
