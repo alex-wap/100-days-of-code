@@ -151,3 +151,19 @@
 [Django](http://github.com/alex-wap/CodingDojo/tree/master/Django)
 
 
+### Day 10: January 16, Monday
+
+**Work**: I started my first day as an assistant instructor. I demoed one of the assignemnts. I powered through more algorithms. Digits stored as linked list, increment one. Use stack and keep track of minimum in O(1).
+
+**Thoughts**: I need to power through more Django after my interview. 9 more tabs.
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Algorithms WIP](http://github.com/alex-wap/algorithms)
+
