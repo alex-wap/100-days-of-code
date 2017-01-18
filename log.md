@@ -167,3 +167,19 @@
 
 [Algorithms WIP](http://github.com/alex-wap/algorithms)
 
+
+### Day 11: January 17, Tuesday
+
+**Work**: I am still studying algos. Interview tomororow.
+
+**Thoughts**: I need to power through more Django after my interview. 9 more tabs.
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Algorithms WIP](http://github.com/alex-wap/algorithms)
