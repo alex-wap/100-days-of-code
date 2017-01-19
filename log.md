@@ -183,3 +183,20 @@
 
 
 [Algorithms WIP](http://github.com/alex-wap/algorithms)
+
+
+### Day 12: January 18, Wednesday
+
+**Work**: Interview!
+
+**Thoughts**: I need to power through more Django. 9 more tabs.
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Algorithms WIP](http://github.com/alex-wap/algorithms)
