@@ -200,3 +200,20 @@
 
 
 [Algorithms WIP](http://github.com/alex-wap/algorithms)
+
+
+### Day 13: January 19, Thursday
+
+**Work**: I taught students how to setup Django and created a repo for it. I also learned a bit about recursive sum of squares and knight moves.
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Django Setup](http://github.com/alex-wap/django-setup)
