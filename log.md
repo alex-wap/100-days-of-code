@@ -221,7 +221,7 @@
 
 ### Day 14: January 20, Friday
 
-**Work**: I interviewed again. I also taught students more Django
+**Work**: I interviewed again. I also taught students more Django.
 
 **Thoughts**: 
 
@@ -231,5 +231,22 @@
 - Training program for technical interviews
 
 **Links** None today.
+
+
+### Day 15: January 21, Saturday
+
+**Work**: Lots of Django.
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Django Setup](http://github.com/alex-wap/django-setup)
 
 
