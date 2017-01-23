@@ -250,3 +250,18 @@
 [Django Setup](http://github.com/alex-wap/django-setup)
 
 
+### Day 16: January 22, Sunday
+
+**Work**: Lots of Django again! Also updated a README for Django errors and troubleshooting.
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. 
+- Training program for technical interviews
+
+**Links** 
+
+
+[Django Cheatsheets](https://github.com/alex-wap/Cheat_Sheets/blob/alex-django/Python_Errors_Django.md)
