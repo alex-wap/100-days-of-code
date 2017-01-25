@@ -279,3 +279,22 @@
 - Training program for technical interviews
 
 **Links** None today.
+
+
+### Day 18: January 24, Tuesday
+
+**Work**: Django login and registration. More Django errors.
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. Video with Amy.
+- Training program for technical interviews
+
+**Links** 
+
+
+[Django Cheatsheets](https://github.com/alex-wap/Cheat_Sheets/blob/alex-django/Python_Errors_Django.md)
+
+
