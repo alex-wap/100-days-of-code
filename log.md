@@ -298,3 +298,19 @@
 [Django Cheatsheets](https://github.com/alex-wap/Cheat_Sheets/blob/alex-django/Python_Errors_Django.md)
 
 
+### Day 19: January 25, Wednesday
+
+**Work**: Set up a demo for Django login and registration for my class. 
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. Video with Amy.
+- Training program for technical interviews
+
+**Links** 
+
+
+[Django Login Demo](https://github.com/alex-wap/login-demo)
+
