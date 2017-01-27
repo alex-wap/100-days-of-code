@@ -314,3 +314,16 @@
 
 [Django Login Demo](https://github.com/alex-wap/login-demo)
 
+
+### Day 20: January 26, Thursday
+
+**Work**: Django deployment with my class. 
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. Video with Amy.
+- Training program for technical interviews
+
+**Links** None today.
