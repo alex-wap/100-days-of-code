@@ -327,3 +327,31 @@
 - Training program for technical interviews
 
 **Links** None today.
+
+
+### Day 21: January 27, Friday
+
+**Work**: Grading exams and teaching some deployment tricks. 
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. Video with Amy.
+- Training program for technical interviews
+
+**Links** None today.
+
+
+### Day 22: January 28, Saturday
+
+**Work**: More grading exams and helping students with  deployment. 
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- A guide for submitting an iOS app through the App Store Submittal Process. Video with Amy.
+- Training program for technical interviews
+
+**Links** None today.
