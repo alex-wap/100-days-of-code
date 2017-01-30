@@ -355,3 +355,19 @@
 - Training program for technical interviews
 
 **Links** None today.
+
+
+### Day 23: January 29, Sunday
+
+**Work**: I wrote a How-to Guide for Apple App Store Submittal. Link below. I will do a Git demo tomorrow.
+
+**Thoughts**: 
+
+- Underscore review
+- Cracking the Coding Interview
+- Training program for technical interviews
+
+**Links** 
+
+
+[How-to Guide for Apple App Store Submittal](https://github.com/alex-wap/app-store)
