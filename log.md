@@ -371,3 +371,31 @@
 
 
 [How-to Guide for Apple App Store Submittal](https://github.com/alex-wap/app-store)
+
+
+
+### Day 24: January 30, Monday
+
+**Work**: I updated my How-to Guide for Apple App Store Submittal. I did a Git demo and recorded it on YouTube. I started my guide to getting a Software job.
+
+**Thoughts**: To Do
+* YPC
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[How-to Guide for Apple App Store Submittal](https://github.com/alex-wap/app-store)
+
+
+[Git Guide](https://github.com/alex-wap/gitguide)
+
+
+[YouTube Git Guide](https://youtu.be/XFJYzYeH00E)
+
+
+[Find a Software Engineering Position](https://github.com/alex-wap/job-search)
+
+
