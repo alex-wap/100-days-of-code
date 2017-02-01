@@ -399,3 +399,20 @@
 [Find a Software Engineering Position](https://github.com/alex-wap/job-search)
 
 
+### Day 25: January 31, Tuesday
+
+**Work**: I did a short demo and explanation of Singly Linked Lists. I deployed a Django app to my AWS instance and updated my subdomains repo.
+
+**Thoughts**: To Do
+* YPC
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Django Deployment](https://github.com/alex-wap/DjangoDeployment)
+
+
+[Multiple Subdomains](https://github.com/alex-wap/subdomains)
