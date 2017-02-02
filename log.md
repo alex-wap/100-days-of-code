@@ -416,3 +416,29 @@
 
 
 [Multiple Subdomains](https://github.com/alex-wap/subdomains)
+
+
+### Day 26: February 1, Wednesday
+
+**Work**: I updated my subdomains repo, my job search repo, and my Django deployment repo.
+
+**Thoughts**: To Do
+* YPC
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Multiple Subdomains](https://github.com/alex-wap/subdomains)
+
+
+[Find a Software Engineering Position](https://github.com/alex-wap/job-search)
+
+
+[Django Deployment](https://github.com/alex-wap/DjangoDeployment)
+
+
+
+
