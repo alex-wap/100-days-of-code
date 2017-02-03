@@ -441,4 +441,21 @@
 
 
 
+### Day 27: February 2, Thursday
+
+**Work**: I published an Alexa skill and worked on the YPC project.
+
+**Thoughts**: To Do
+* YPC
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[YPC](https://github.com/alex-wap/YPC-scrum)
+
+
+[Alexa skills](https://github.com/alex-wap/alexa_skills)
 
