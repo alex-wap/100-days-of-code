@@ -459,3 +459,18 @@
 
 [Alexa skills](https://github.com/alex-wap/alexa_skills)
 
+
+### Day 28: February 3, Friday
+
+**Work**: I finished up my work on the YPC project.
+
+**Thoughts**: To Do
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[YPC](https://github.com/alex-wap/YPC-scrum)
+
