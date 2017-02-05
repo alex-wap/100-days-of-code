@@ -474,3 +474,18 @@
 
 [YPC](https://github.com/alex-wap/YPC-scrum)
 
+
+### Day 29: February 4, Saturday
+
+**Work**: I updated my job search repo with more links.
+
+**Thoughts**: To Do
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Find a Software Engineering Position](https://github.com/alex-wap/job-search)
+
