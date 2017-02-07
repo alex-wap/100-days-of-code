@@ -492,7 +492,7 @@
 
 ### Day 30: February 6, Monday
 
-**Work**: I added more job sites to my job search repo. I also updated my Node deployment doc with Ubuntu 16.04 (thanks Coding Dojo). I also helped 
+**Work**: I added more job sites to my job search repo. I also updated my Node deployment doc with Ubuntu 16.04 (thanks Coding Dojo). I also helped Harmann with the YPC project deployment.
 
 **Thoughts**: To Do
 * C#
