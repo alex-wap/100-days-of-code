@@ -489,3 +489,20 @@
 
 [Find a Software Engineering Position](https://github.com/alex-wap/job-search)
 
+
+### Day 30: February 6, Monday
+
+**Work**: I added more job sites to my job search repo. I also updated my Node deployment doc with Ubuntu 16.04 (thanks Coding Dojo). I also helped 
+
+**Thoughts**: To Do
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Find a Software Engineering Position](https://github.com/alex-wap/job-search)
+
+
+[Node Deployment](https://htmlpreview.github.io/?https://github.com/alex-wap/subdomains/blob/master/node_deploy.html)
