@@ -506,3 +506,21 @@
 
 
 [Node Deployment](https://htmlpreview.github.io/?https://github.com/alex-wap/subdomains/blob/master/node_deploy.html)
+
+
+### Day 31: February 8, Wednesday
+
+**Work**: I relocated and added a link to my job search repo.
+
+**Thoughts**: To Do
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Find a Software Engineering Position](https://github.com/alex-wap/job-search)
+
+
+
