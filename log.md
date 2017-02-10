@@ -523,4 +523,20 @@
 [Find a Software Engineering Position](https://github.com/alex-wap/job-search)
 
 
+### Day 32: February 9, Thursday
+
+**Work**: I created a blog using [Jekyll-Bootstrap](http://jekyllbootstrap.com/). 
+
+**Thoughts**: To Do
+* C#
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Jekyll-Bootstrap](http://jekyllbootstrap.com/)
+
+
+[Personal Blog](https://alex-wap.github.io )
 
