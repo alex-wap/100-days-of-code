@@ -540,3 +540,34 @@
 
 [Personal Blog](https://alex-wap.github.io )
 
+### Day 33: February 12, Sunday
+
+**Work**: I worked on some C#. 
+
+**Thoughts**: To Do
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[C# Fundamentals](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
+
+
+[Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
+
+
+### Day 34: February 14, Tuesday
+
+**Work**: I worked on some C# and learned about git stash and git stash pop. 
+
+**Thoughts**: To Do
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Git Guide](https://github.com/alex-wap/gitguide)
+
+
