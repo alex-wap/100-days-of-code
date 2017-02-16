@@ -571,3 +571,17 @@
 [Git Guide](https://github.com/alex-wap/gitguide)
 
 
+### Day 35: February 15, Wednesday
+
+**Work**: I am building a priority queue scheduling algorithm for a basic OS built with Lua. 
+
+**Thoughts**: To Do
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Simple OS Scheduler](https://github.com/alex-wap/schedlua)
+
+
