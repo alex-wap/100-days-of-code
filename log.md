@@ -585,3 +585,26 @@
 [Simple OS Scheduler](https://github.com/alex-wap/schedlua)
 
 
+### Day 36: February 16, Thursday
+
+**Work**: I worked with Lua on the scheduling algorithm. 
+
+**Thoughts**: To Do
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+
+
+[Simple OS Scheduler](https://github.com/alex-wap/schedlua)
+
+
+### Day 37: February 19, Sunday
+
+**Work**: C# and JSON. 
+
+**Thoughts**: To Do
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None today
