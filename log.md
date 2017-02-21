@@ -608,3 +608,15 @@
 * Cracking the Coding Interview
 
 **Links** None today
+
+
+### Day 38: February 20, Monday
+
+**Work**: C#. 
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None today
