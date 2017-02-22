@@ -622,7 +622,7 @@
 **Links** None today
 
 
-### Day 38: February 20, Monday
+### Day 39: February 21, Tuesday
 
 **Work**: Azure services and a Tech Talk by Kyle Simpson, author of [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). 
 
