@@ -620,3 +620,16 @@
 * Cracking the Coding Interview
 
 **Links** None today
+
+
+### Day 38: February 20, Monday
+
+**Work**: Azure services and a Tech Talk by Kyle Simpson, author of [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). 
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** 
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
