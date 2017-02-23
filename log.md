@@ -633,3 +633,17 @@
 
 **Links** 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+
+### Day 40: February 22, Wednesday
+
+**Work**: I programmed a poker game in C# and learned my way around Visual Studio. 
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
+
+
