@@ -647,3 +647,14 @@
 **Links** None Today
 
 
+### Day 41: February 24, Friday
+
+**Work**: I programmed the twenty questions game and learned about error handling in C#. 
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
+
