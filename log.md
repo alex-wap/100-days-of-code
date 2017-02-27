@@ -658,3 +658,15 @@
 
 **Links** None Today
 
+
+### Day 42: February 26, Sunday
+
+**Work**: Simple .Net API and Unit Testing in C#. 
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
+
