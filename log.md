@@ -670,3 +670,15 @@
 
 **Links** None Today
 
+
+### Day 43: February 27, Monday
+
+**Work**: Graphics programming in C#! 
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
+
