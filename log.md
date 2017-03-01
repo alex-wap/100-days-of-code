@@ -682,3 +682,14 @@
 
 **Links** None Today
 
+
+### Day 44: February 28, Tuesday
+
+**Work**: First pull request for a large code base!
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
