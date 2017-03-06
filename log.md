@@ -693,3 +693,26 @@
 * Cracking the Coding Interview
 
 **Links** None Today
+
+### Day 45: March 2, Thursday
+
+**Work**: Built a tool using a service provider API.
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
+
+### Day 46: March 4, Saturday
+
+**Work**: Built another Amazon Alexa skill.
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
+
