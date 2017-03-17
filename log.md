@@ -716,3 +716,14 @@
 
 **Links** None Today
 
+
+### Day 47: March 16, Thursday
+
+**Work**: Practice using Typescript for the first time.
+
+**Thoughts**: To Do
+* Head First Design Patterns
+* Underscore review
+* Cracking the Coding Interview
+
+**Links** None Today
